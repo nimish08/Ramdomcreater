@@ -10,9 +10,6 @@ background-size: cover;
 '''
 from PIL import Image
 image = Image.open('123456.jpg')
-
-st.image(image, caption='UEFA Campion league', imgage_align='left', width="100", height="100" ,
-         use_column_width=True)
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
 
