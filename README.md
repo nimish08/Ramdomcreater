@@ -1,3 +1,4 @@
 # Ramdomcreater
 
-The Project is deployed on heroku.
+Heroku deployed model.
+ https://jumblewo.herokuapp.com/
